@@ -1,0 +1,17 @@
+{
+  "name": "crashcourse",
+  "version": "1.0.0",
+  "description": "very first crashcourse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-passer": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-validator": "^5.0.3"
+  },
+  "author": "Deo",
+  "license": "MIT"
+}
